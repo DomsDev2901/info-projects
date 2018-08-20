@@ -3,15 +3,15 @@
     <h1>{{ msg }}</h1>
     <ul>
       <li>
-        <h3>Pages Secure <br><span>(bongo_app)</span></h3>
+        <h3>Pages Secure <br><span>(b_app)</span></h3>
         <table>
           <tr>
             <td>Project name:</td>
-            <td>bongo_app</td>
+            <td>b_app</td>
           </tr>
           <tr>
             <td>Backend:</td>
-            <td>Zendframework 2</td>
+            <td>ZF 2</td>
           </tr>
           <tr>
             <td>Frontend:</td>
@@ -19,20 +19,20 @@
           </tr>
           <tr>
             <td>Dependences:</td>
-            <td>zend_bongolib</td>
+            <td>zend_blib</td>
           </tr>
         </table>
       </li>
       <li>
-        <h3>Checkout V2 <br><span>(zend_checkout)</span></h3>
+        <h3>Chk V2 <br><span>(zend_chk)</span></h3>
         <table>
           <tr>
             <td>Project name:</td>
-            <td>zend_checkout</td>
+            <td>zend_chk</td>
           </tr>
           <tr>
             <td>Backend:</td>
-            <td>Zendframework 2</td>
+            <td>ZF 2</td>
           </tr>
           <tr>
             <td>Frontend:</td>
@@ -40,16 +40,16 @@
           </tr>
           <tr>
             <td>Dependences:</td>
-            <td>zend_bongolib</td>
+            <td>zend_blib</td>
           </tr>
         </table>
       </li>
       <li>
-        <h3>Merchant Portal <br><span>(bongo_partnertools)</span></h3>
+        <h3>MP <br><span>(b_pt)</span></h3>
         <table>
           <tr>
             <td>Project name:</td>
-            <td>bongo_partnertools</td>
+            <td>b_pt</td>
           </tr>
           <tr>
             <td>Backend:</td>
@@ -61,16 +61,16 @@
           </tr>
           <tr>
             <td>Dependences:</td>
-            <td>bongolib</td>
+            <td>blib</td>
           </tr>
         </table>
       </li>
       <li>
-        <h3>Order Portal <br><span>(bongo_customertools)</span></h3>
+        <h3>OP <br><span>(b_ct)</span></h3>
         <table>
           <tr>
             <td>Project name:</td>
-            <td>bongo_customertools</td>
+            <td>b_ct</td>
           </tr>
           <tr>
             <td>Backend:</td>
@@ -82,16 +82,16 @@
           </tr>
           <tr>
             <td>Dependences:</td>
-            <td>bongolib</td>
+            <td>blib</td>
           </tr>
         </table>
       </li>
       <li>
-        <h3>Tools Portal <br><span>(bongo_tools)</span></h3>
+        <h3>TP <br><span>(b_tools)</span></h3>
         <table>
           <tr>
             <td>Project name:</td>
-            <td>bongo_tools</td>
+            <td>b_tools</td>
           </tr>
           <tr>
             <td>Backend:</td>
@@ -103,16 +103,16 @@
           </tr>
           <tr>
             <td>Dependences:</td>
-            <td>bongolib</td>
+            <td>blib</td>
           </tr>
         </table>
       </li>
       <li>
-        <h3>Toolz Portal <br><span>(bongo_toolz)</span></h3>
+        <h3>TzP <br><span>(b_tz)</span></h3>
         <table>
           <tr>
             <td>Project name:</td>
-            <td>bongo_toolz</td>
+            <td>b_tz</td>
           </tr>
           <tr>
             <td>Backend:</td>
@@ -124,7 +124,7 @@
           </tr>
           <tr>
             <td>Dependences:</td>
-            <td>zend_bongolib</td>
+            <td>zend_blib</td>
           </tr>
         </table>
       </li>
